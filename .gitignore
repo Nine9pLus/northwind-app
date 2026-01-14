@@ -1,0 +1,16 @@
+# ===== ASP.NET Core =====
+**/bin/
+**/obj/
+*.user
+*.suo
+appsettings.*.json
+
+# ===== Node / Nuxt =====
+**/node_modules/
+**/.nuxt/
+**/.output/
+**/dist/
+
+# ===== OS / Tooling =====
+.vs/
+.DS_Store
